@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Gennifer Sabye Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css">
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <div class="box round"><h1> Gennifer Sabye </h1>
+      <h2> Introduction </h2>
+        <p> blah blah blah </p>
+        <p> Mesa, Arizona </p>
+        
+        <hr>
+        
+      <h2> About Me </h2>
+        <p> blah blah blah </p>
+        
+        <hr>
+        
+      <h2> Contact Me </h2>
+      
+
+  </body>
+  
+</html>
