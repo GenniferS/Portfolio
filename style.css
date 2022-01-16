@@ -17,4 +17,17 @@ header{
   background-color: black;
 }
 
+header h2{
+  font-family: Georgia, serif;
+  color: EFF6E0;
+  font-size: 20px;
+  text-align: center;
+}
+
+footer{
+  background-color: black;
+  font-family: Georgia, serif;
+  background-color: AEC3B0;
+}
+
 
