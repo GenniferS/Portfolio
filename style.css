@@ -18,6 +18,16 @@ header{
   background-color: #01161E;
 }
 
+img{
+  border-radius: 5px;
+  margin - 15px;
+}
+
+main{
+  background color: #598392;
+  text-align: center;
+}
+  
 header h2{
   font-family: Georgia, serif;
   color: #EFF6E0;
