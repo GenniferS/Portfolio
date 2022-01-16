@@ -1,1 +1,20 @@
+/* All the CSS things */
+
+/* Main Stylings */
+
+body {
+  margin : 0;
+  font-family: Georgia, Serif;
+  background-color: AEC3B0;
+}
+
+header{
+  height: 140px;
+  font-size: 70px;
+  color: EFF6E0;
+  text-align: center;
+  font-family: Georgia, serif:
+  background-color: black;
+}
+
 
