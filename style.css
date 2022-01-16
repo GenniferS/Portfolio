@@ -5,29 +5,29 @@
 body {
   margin : 0;
   font-family: Georgia, Serif;
-  background-color: AEC3B0;
+  background-color: #AEC3B0;
 }
 
 header{
   height: 100px;
   font-size: 60px;
-  color: EFF6E0;
+  color: #EFF6E0;
   text-align: center;
   font-family: Georgia, serif:
-  background-color: black;
+  background-color: #black;
 }
 
 header h2{
   font-family: Georgia, serif;
-  color: EFF6E0;
+  color: #EFF6E0;
   font-size: 20px;
   text-align: center;
 }
 
 footer{
-  background-color: black;
+  background-color: #black;
   font-family: Georgia, serif;
-  background-color: AEC3B0;
+  background-color: #AEC3B0;
 }
 
 
