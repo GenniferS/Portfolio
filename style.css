@@ -72,3 +72,9 @@ a{
   padding: 20px;
   margin: 20px;
 }
+
+.round {
+  border-radius: 10px;
+}
+
+
