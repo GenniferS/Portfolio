@@ -58,13 +58,14 @@ p{
 ol, ul{
   text-align: left;
 }
-
+/*stylings for links */
 a{
   a: link {color: #0645AD;}
   a: visited {color: #663366;}
   a: hover {color: #3366BB}
 }
 
+/*stylings for header and footer bar */
 .box {
   font-family: Georgia, serif;
   background-color: #01161E;
