@@ -64,3 +64,11 @@ a{
   a: visited {color: #663366;}
   a: hover {color: #3366BB}
 }
+
+.box {
+  font-family: Georgia, serif;
+  text-align: center;
+  font-size: 40px;
+  padding: 20px;
+  margin: 20px;
+}
