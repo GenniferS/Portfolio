@@ -1,6 +1,6 @@
-/* All the CSS things */
+/* All the CSS things for my Portfolio page */
 
-/* Main Stylings */
+/* Header and Main Stylings */
 
 body {
   margin : 0;
@@ -25,6 +25,7 @@ img{
   margin: 15px;
 }
 
+/* Main Stylings for the bulk content of the page*/
 main{
   background color: #598392;
   text-align: center;
