@@ -67,6 +67,8 @@ a{
 
 .box {
   font-family: Georgia, serif;
+  background-color: #01161E;
+  color: #EFF6E0;
   text-align: center;
   font-size: 40px;
   padding: 20px;
